@@ -1,6 +1,8 @@
 ## 🛒 D-Mart Sales Dashboard 2024 - Data Analysis Project
 
+
 A visually compelling and interactive **D-Mart Sales Dashboard** created using **Microsoft Excel** to analyze and summarize sales performance. This project highlights the potential of Excel to turn raw data into actionable insights. 📊✨
+
 
 ### 📜 Project Overview
 
